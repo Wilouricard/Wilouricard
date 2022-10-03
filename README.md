@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.wilouexample.com](www.wilouexample.com)
 
-- 📫 How to reach me **nam.tang@live.fr**
+- 📫 How to reach me **(mail to put here later)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
