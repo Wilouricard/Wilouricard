@@ -11,7 +11,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **a react based project** -->
 
-- 👨‍💻 All of my projects are available in [https://portfolio00-wilou.netlify.app/](my portfolio)
+- 👨‍💻 All of my projects are available in [https://portfolio00-wilou.netlify.app/]
 
 - 📫 How to reach me **nam.tang@live.fr**
 
