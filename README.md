@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wilou</h1>
+<h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilouricard&label=Profile%20views&color=0e75b6&style=flat" alt="wilouricard" /> </p>
@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **mastering React and Tailwind skills by building challenge-projects**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **a react based project**
+<!-- - 👯 I’m looking to collaborate on **a react based project** -->
 
-- 👨‍💻 All of my projects are available at [www.wilouexample.com](www.wilouexample.com)
+- 👨‍💻 All of my projects are available in [https://portfolio00-wilou.netlify.app/](my portfolio)
 
-- 📫 How to reach me **(mail to put here later)**
+- 📫 How to reach me **nam.tang@live.fr**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
