@@ -10,7 +10,7 @@
 
 <!-- - 👯 I’m looking to collaborate on **a react based project** -->
 
-- 👨‍💻 All of my projects are available in [https://portfolio00-wilou.netlify.app/]
+- 👨‍💻 All of my projects are available in []
 
 - 📫 How to reach me **nam.tang@live.fr**
 
